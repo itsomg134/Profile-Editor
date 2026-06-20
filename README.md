@@ -81,7 +81,7 @@ The entire application is contained in a single `index.html` file:
 
 ---
 
-## 🎮 Usage Guide
+## Usage Guide
 
 ### Editing Your Profile
 1. **Update personal info** — Type directly in any input field (auto-saves after 0.8 seconds)
@@ -99,7 +99,7 @@ The entire application is contained in a single `index.html` file:
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Default Profile Data
 Edit the `defaultProfile` object in the JavaScript section to customize defaults:
