@@ -1,4 +1,4 @@
-# 🧑‍💼 Profile Editor
+# Profile Editor
 
 A modern, responsive profile editor web application with real-time saving, avatar upload, and social links management. Built with vanilla HTML, CSS, and JavaScript — no frameworks required.
 
@@ -6,15 +6,15 @@ A modern, responsive profile editor web application with real-time saving, avata
 
 ---
 
-## ✨ Features
+##  Features
 
-- **👤 Avatar Management** — Upload custom profile photos or use default avatars
-- **📝 Editable Profile Fields** — First name, last name, email, phone, and bio
-- **🔗 Social Links** — Twitter, LinkedIn, and GitHub integration
-- **💾 Auto-Save** — Changes automatically saved to `localStorage`
-- **🔄 Reset to Defaults** — One-click restore to original profile data
-- **📱 Fully Responsive** — Works on desktop, tablet, and mobile devices
-- **🎨 Modern UI** — Glassmorphism design with smooth animations
+- ** Avatar Management** — Upload custom profile photos or use default avatars
+- ** Editable Profile Fields** — First name, last name, email, phone, and bio
+- ** Social Links** — Twitter, LinkedIn, and GitHub integration
+- ** Auto-Save** — Changes automatically saved to `localStorage`
+- ** Reset to Defaults** — One-click restore to original profile data
+- ** Fully Responsive** — Works on desktop, tablet, and mobile devices
+- ** Modern UI** — Glassmorphism design with smooth animations
 
 ---
 
