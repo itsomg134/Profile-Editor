@@ -39,7 +39,7 @@ A modern, responsive profile editor web application with real-time saving, avata
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 profile-editor/
@@ -55,7 +55,7 @@ The entire application is contained in a single `index.html` file:
 
 ---
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
@@ -167,53 +167,15 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Font Awesome](https://fontawesome.com/) for beautiful icons
 - [Random User API](https://randomuser.me/) for default avatar images
 - Modern CSS features: `backdrop-filter`, Grid, Flexbox
 
----
-
-## 📧 Contact
-
-Your Name — [@yourtwitter](https://twitter.com/yourtwitter) — your.email@example.com
-
-Project Link: [https://github.com/yourusername/profile-editor](https://github.com/yourusername/profile-editor)
-
----
-
-⭐️ **Star this repo** if you found it useful!
-```
-
----
-
-## 📝 Customization Tips
-
-To make this README your own:
-
-1. **Replace placeholders:**
-   - `yourusername` → your actual GitHub username
-   - `your.email@example.com` → your contact email
-   - `@yourtwitter` → your Twitter handle
-
-2. **Add screenshots:**
-   - Take screenshots of your app
-   - Save as `screenshot.png` in project root
-   - Replace placeholder image URLs
-
-3. **Update demo link:**
-   - Deploy to GitHub Pages
-   - Update the live demo URL
-
-4. **Add badges:**
-   Customize tech stack badges from [shields.io](https://shields.io)
-
-5. **License file:**
-   Create a `LICENSE` file with MIT or your preferred license text
