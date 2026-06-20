@@ -18,13 +18,9 @@ A modern, responsive profile editor web application with real-time saving, avata
 
 ---
 
-## 🚀 Live Demo
-
-[View Live Demo](https://yourusername.github.io/profile-editor/)
-
 ---
 
-## 📸 Preview
+##  Preview
 
 | Desktop View | Mobile View |
 |--------------|-------------|
@@ -32,7 +28,7 @@ A modern, responsive profile editor web application with real-time saving, avata
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
