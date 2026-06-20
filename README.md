@@ -126,7 +126,7 @@ Modify CSS variables and classes to match your brand:
 
 ---
 
-## 🌟 Key Functionality
+## Key Functionality
 
 | Feature | Implementation |
 |---------|---------------|
@@ -138,7 +138,7 @@ Modify CSS variables and classes to match your brand:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
