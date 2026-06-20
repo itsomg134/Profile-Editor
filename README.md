@@ -2,7 +2,7 @@
 
 A modern, responsive profile editor web application with real-time saving, avatar upload, and social links management. Built with vanilla HTML, CSS, and JavaScript — no frameworks required.
 
-![Profile Editor Screenshot](https://raw.githubusercontent.com/yourusername/profile-editor/main/screenshot.png)
+<img width="1886" height="1121" alt="image" src="https://github.com/user-attachments/assets/a36fbaab-dc39-4d07-8c7a-50f4e69b2ab6" />
 
 ---
 
